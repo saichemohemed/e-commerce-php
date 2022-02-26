@@ -6,4 +6,6 @@
 ### link account guest http://localhost/e-commerce-php/
 #### - account guest email: **user@gmail.com  motpass: admin123**
 
-https://github.com/github/{repository}/blob/assets/cat.png 
+https://github.com/github/e-commerce-php/blob/assets/cat.png 
+![e-commerce-php](assets/favicon.png)
+
