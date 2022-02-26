@@ -1,6 +1,6 @@
 # e-commerce-php
 
-### link account admin http://e-commerce-php/adf/admin/login.php
+### link account admin http://localhost/e-commerce-php/admin/login.php
 #### - account admin email: **admin@gmail.com  motpass: admin123**
 
 ### link account guest http://localhost/e-commerce-php/
